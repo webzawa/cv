@@ -24,7 +24,7 @@
 
 ### 言語
 
-Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script
+Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | shell script
 
 ### フレームワーク等
 
