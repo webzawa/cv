@@ -24,11 +24,11 @@
 
 ### 言語
 
-Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | shell script
+Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | shell script
 
 ### フレームワーク等
 
-Ruby on Rails | jQuery | React.js | Tailwind CSS | Bootstrap
+Ruby on Rails | jQuery | React.js | Tailwind CSS | Bootstrap | Ansible | Terraform | Terraformer
 
 ### RDB/NoSQL
 
