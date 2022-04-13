@@ -4,7 +4,6 @@
 
 |key|value|
 |----|----|
-|生息地|東京都 渋谷区|
 |Twitter|[@webzawa2](https://twitter.com/webzawa2)|
 |開発アプリ|[MAXICELIシフト](https://www.maxiceli-shift.com/) (コンビニ事業者向けWebアプリケーション)|
 
