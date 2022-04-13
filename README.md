@@ -48,7 +48,7 @@ GitHub | GitHub Actions | CircleCI | STUDIO
 
 ### その他
 
-Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | SASS | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark
+Firebase Auth | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | SASS | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark
 
 ## バリューを発揮しやすい業務
 
