@@ -25,7 +25,7 @@ Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | sh
 
 ### フレームワーク等
 
-Gin | Ruby on Rails | Next.js | React.js | jQuery | Tailwind CSS | Bootstrap | Ansible | Terraform | Terraformer
+Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Ansible | Terraform | Terraformer
 
 ### RDB/NoSQL
 
