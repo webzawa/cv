@@ -25,7 +25,7 @@ Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | sh
 
 ### フレームワーク等
 
-Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Ansible | Terraform | Terraformer
+Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass
 
 ### RDB/NoSQL
 
@@ -39,13 +39,17 @@ Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packa
 
 ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS(MySQL) | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
 
+#### GCP
+
+Firebase Auth
+
 ### SaaS/PaaS
 
 GitHub | GitHub Actions | CircleCI | STUDIO
 
 ### その他
 
-Firebase Auth | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | SASS | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP
+Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP
 
 ## バリューを発揮しやすい業務
 
