@@ -35,11 +35,11 @@ DynamoDB | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Pa
 
 Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packard Nonstop Guardian
 
-#### AWS
+### AWS
 
 ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
 
-#### GCP
+### GCP
 
 Firebase Auth
 
@@ -61,6 +61,11 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 - コンテナ化(Docker 化)
 - ログ収集と分析基盤の構築
 - サーバレス構成のインフラ構築
+
+## 資格
+
+- 基本情報技術者
+- AWS SAA
 
 <a id="resume"></a>
 
