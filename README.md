@@ -49,7 +49,7 @@ GitHub | GitHub Actions | CircleCI | STUDIO
 
 ### その他
 
-Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP
+Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP | draw.io | mermaid
 
 ## バリューを発揮しやすい業務
 
@@ -98,9 +98,24 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 
 - Rails 7
 - Next.js 13
+- MySQL
+- Docker
+- docker-compose
+- TailwindCSS
+- nginx
+- Github Actions
 - AWS
+  - VPC
+  - Route53
+  - ACM
+  - RDS
+  - S3
+  - CloudFront
+  - ALB
+  - ECR
+  - ECS(Fargate)
   - Amplify
-  - ECS Fargate
+  - Cognito
 
 # 大規模建設ベンダー向けシステムの開発
 
@@ -136,7 +151,12 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 
 - Rails 6
 - Github Actions
+- CircleCI
 - AWS
+  - Codepipeline
+  - ECS
+  - Fargate
+  - Fargate Spot
 
 # 顧客エンゲージメント向上用 SNS チャットボットの機能開発
 
@@ -167,7 +187,7 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 ### 【使用言語・FW・MW・ツール等】
 
 - Rails 6
-- Next.js
+- Next.js 13
 - Github Actions
 
 # 海外インフルエンサーメンタリング Web サイトの認証機能の実装
