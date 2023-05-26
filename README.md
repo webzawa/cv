@@ -37,7 +37,7 @@ Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packa
 
 ### AWS
 
-ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
+ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
 
 ### GCP
 
@@ -149,6 +149,8 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
   - ALB
   - ECR
   - ECS(Fargate)
+  - ECS Exec
+  - SSM
   - Amplify
   - Cognito
 
