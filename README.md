@@ -150,6 +150,7 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
   - ECR
   - ECS(Fargate)
   - ECS Exec
+  - SES
   - SSM
   - Amplify
   - Cognito
