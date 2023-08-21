@@ -71,7 +71,9 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 
 # 業務経歴（新しい順）
 
-2023/05/25 更新
+2023/08/22 更新
+
+[Shopifyを使用したRails x Next.jsの開発 2023/08](#13)
 
 [画像生成 AI の Web サービスのインフラ開発 2023/05-2023-06](#12)
 
@@ -96,6 +98,37 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 [コンビニ事業者向けシフトアプリの開発 2020/04-現在まで](#2)
 
 [大手情報サービス企業の FAX ネットワークシステムの開発 2018/03-2020/04](#1)
+
+<a id="13"></a>
+
+# Shopifyを使用したRails x Next.jsの開発 [⇡](#resume)
+
+## 参画時期
+
+2023/08
+
+## プロジェクトの種類
+
+- Web サービス
+
+## 担当工程
+
+- 設計
+- コーディング
+
+## 経験した職種・役割
+
+- バックエンド
+
+## 業務内容
+
+- Shopifyを使用したRailsバックエンドの開発
+
+## 使用技術
+
+### 【使用言語・FW・MW・ツール等】
+
+
 
 <a id="12"></a>
 
