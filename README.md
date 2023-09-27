@@ -165,13 +165,12 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 ### 【使用言語・FW・MW・ツール等】
 
 - Rails 7
-- Next.js 13
+- Next.js 12
 - MySQL
 - Docker
 - docker-compose
 - TailwindCSS
 - nginx
-- Github Actions
 - AWS
   - VPC
   - Route53
@@ -187,6 +186,7 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
   - SSM
   - Amplify
   - Cognito
+  - CodePipeline
 
 <a id="11"></a>
 
