@@ -165,7 +165,7 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 ### 【使用言語・FW・MW・ツール等】
 
 - Rails 7
-- Next.js 12
+- Next.js 13
 - MySQL
 - Docker
 - docker-compose
