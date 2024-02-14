@@ -49,7 +49,7 @@ GitHub | GitHub Actions | CircleCI | STUDIO
 
 ### その他
 
-Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP | draw.io | mermaid
+Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築）
 
 ## バリューを発揮しやすい業務
 
