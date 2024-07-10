@@ -5,13 +5,13 @@
 | key            | value                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------- |
 | Twitter        | [@webzawa2](https://twitter.com/webzawa2)                                                    |
-| 個人開発アプリ | [MAXICELI シフト](https://www.maxiceli-shift.com/) (コンビニ事業者向け Web アプリケーション) |
+| 個人開発アプリ | [MAXICELI シフト](https://www.maxiceli-shift.com/) (コンビニ事業者向け Web アプリケーション 2024/07/10現在非公開) |
 
 ## 概要
 
 フルスタックにバックエンド・フロントエンド・インフラまで携わっております。
 
-Web 系の技術で勤怠アプリや ERP パッケージなどの業務アプリケーションの開発した経験が豊富です。
+Web 系の技術を用いて勤怠アプリや ERP パッケージなどの業務アプリケーションの開発した経験が豊富です。
 
 サービスの規模を問わず、小規模～大規模サービスの新規開発フェーズから改修フェーズにおいてバリューを発揮できるエンジニアだと思います。
 
@@ -25,7 +25,7 @@ Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | sh
 
 ### フレームワーク等
 
-Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass
+Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass | GraphQL
 
 ### RDB/NoSQL
 
@@ -37,7 +37,7 @@ Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packa
 
 ### AWS
 
-ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
+ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | Copilot | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
 
 ### GCP
 
@@ -45,11 +45,23 @@ Firebase Auth
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | CircleCI | STUDIO
+GitHub | STUDIO
+
+### CI/CD、IaC
+
+GitHub Actions | CircleCI | Ansible | Terraform | Terraformer
+
+### 課金系実装
+
+Stripe API / Shopify API
+
+### Webサーバ
+
+nginx | unicorn | Apache | Phusion Passenger
 
 ### その他
 
-Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion Passenger | Webpack | Selenium | BeautifulSoup | OpenSSL | Stripe | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築）
+Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud
 
 ## バリューを発揮しやすい業務
 
@@ -71,13 +83,15 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 
 # 業務経歴（新しい順）
 
-2023/08/22 更新
+2024/07/10 更新
+
+[㈱バトネクスト CTO 2024/04〜](#14)
 
 [Shopifyを使用したRails x Next.jsの開発 2023/08](#13)
 
 [画像生成 AI の Web サービスのインフラ開発 2023/05-2023-06](#12)
 
-[大規模建設ベンダー向けシステムの開発 2023/04-現在まで](#11)
+[大規模建設ベンダー向けシステムの開発 2023/04-2024/12](#11)
 
 [顧客エンゲージメント向上用 SNS チャットボットの機能開発 2023/03-2023/05](#10)
 
@@ -98,6 +112,38 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 [コンビニ事業者向けシフトアプリの開発 2020/04-現在まで](#2)
 
 [大手情報サービス企業の FAX ネットワークシステムの開発 2018/03-2020/04](#1)
+
+<a id="14"></a>
+
+# ㈱バトネクスト CTO [⇡](#resume)
+
+## 参画時期
+
+2024/04
+
+## プロジェクトの種類
+
+- Web サービス
+
+## 経験した職種・役割
+
+- PM
+- フロントエンド
+- バックエンド
+- インフラ
+
+## 業務内容
+
+- Web開発案件のPM
+- インスタグラムチャットボットサービスの追加機能開発・改修
+  - N+1解消
+  - インスタグラム API連携
+  - Google Business Profile連携
+  - Eventbridge & LambdaでスケジュールベースのFargateタスクスケーリング実装
+  - Sidekiqメモリリークをjemalloc導入で解決
+  - AWS Copilotを活用したIaC実装
+- ChatGPT4o API & Rails Turbo Streamを利用した非同期更新AIチャットページの作成
+- GolangでGraphQL APIを構築 & サーバレスアーキテクチャのインフラ構築
 
 <a id="13"></a>
 
@@ -127,7 +173,13 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 ## 使用技術
 
 ### 【使用言語・FW・MW・ツール等】
-
+Rails 7.0.4
+Ruby 3.1.2
+MySQL 8.0.27
+Redis 6.2.5
+Swagger
+Node 18.13.0
+Next.js 13.1.6
 
 
 <a id="12"></a>
@@ -194,7 +246,7 @@ Ansible | Terraform | Terraformer | Docker | nginx | unicorn | Apache | Phusion 
 
 ## 参画時期
 
-2023/04-現在まで
+2023/04-2024/12
 
 ## プロジェクトの種類
 
