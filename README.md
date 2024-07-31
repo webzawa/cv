@@ -25,11 +25,11 @@ Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | sh
 
 ### フレームワーク等
 
-Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass | GraphQL
+Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass | GraphQL | Apollo Client
 
 ### RDB/NoSQL
 
-DynamoDB | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Packard Nonstop Enscribe
+DynamoDB| Aurora MySQL | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Packard Nonstop Enscribe
 
 ### OS
 
@@ -37,7 +37,7 @@ Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packa
 
 ### AWS
 
-ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | Copilot | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | StepFunctions | SystemManager | VPC | WAF
+ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | Copilot | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | Elasticache | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | Parameter Store | StepFunctions | SystemManager | VPC | WAF
 
 ### GCP
 
