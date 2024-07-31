@@ -29,7 +29,7 @@ Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind 
 
 ### RDB/NoSQL
 
-DynamoDB| Aurora MySQL | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Packard Nonstop Enscribe
+DynamoDB | Aurora MySQL | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Packard Nonstop Enscribe
 
 ### OS
 
