@@ -83,8 +83,6 @@ Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | 
 
 # 業務経歴（新しい順）
 
-2024/07/10 更新
-
 [㈱バトネクスト CTO 2024/04〜](#14)
 
 [Shopifyを使用したRails x Next.jsの開発 2023/08](#13)
