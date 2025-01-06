@@ -136,14 +136,16 @@ Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | 
 
 - Web開発案件のPM
 - インスタグラムチャットボットサービスの追加機能開発・改修
-  - N+1解消
   - インスタグラム API連携
   - Google Business Profile連携
   - Eventbridge & LambdaでスケジュールベースのFargateタスクスケーリング実装
   - Sidekiqメモリリークをjemalloc導入で解決
   - AWS Copilotを活用したIaC実装
+  - Cloudwatchアラート & AWS Chatbotを使用したSlack通知機能実装
+  - DBクエリのボトルネック改善（N+1解消、インデックス追加、AWS RDSリードレプリカ追加＆ダウンタイムなしでスケールアップ）
 - ChatGPT4o API & Rails Turbo Streamを利用した非同期更新AIチャットページの作成
-- GolangでGraphQL APIを構築 & サーバレスアーキテクチャのインフラ構築
+- GolangでGraphQL APIを構築 & サーバレスアーキテクチャのインフラ構築 & Next.js SSRの構築及びPWAスマホアプリの構築
+- Firebase Cloud Messaging（FCM）を使用したAndroid, iOSへの通知送信
 
 <a id="13"></a>
 
