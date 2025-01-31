@@ -9,13 +9,25 @@
 
 ## 概要
 
-バックエンド・インフラを中心にフロントエンドまでフルスタックに携わっております。
+バックエンド・インフラを中心に、フロントエンドまでフルスタックに携わる経験豊富なエンジニアです。
 
-Web系の技術を用いて勤怠アプリやERPパッケージなどの業務アプリケーションの開発した経験が豊富です。
+主にWeb系の技術を用いて、勤怠管理アプリやERPパッケージなどの業務アプリケーション開発に従事してきました。
+小規模から大規模サービスまで、新規開発フェーズから改修フェーズにおいて高い価値を提供できる能力を持っています。
 
-サービスの規模を問わず、小規模～大規模サービスの新規開発フェーズから改修フェーズにおいてバリューを発揮できるエンジニアだと思います。
+技術スタックとしては、Go、Ruby、Python、JavaScript/TypeScriptなどの言語や、Ruby on Rails、Gin、Next.jsなどのフレームワークを幅広く扱えます。データベースはRDBからNoSQLまで様々な経験があり、特にAWS Aurora(MySQL、PostgreSQL)などに精通しています。
 
-最近ではCI/CD環境の構築や、本番環境のパフォーマンス監視にも携わっており、DevOpsやSREの領域にも積極的に取り組んでいます。
+インフラ面では、AWSを中心としたクラウドサービスの設計・構築・運用に強みがあります。EC2、ECS、Lambda、API Gateway、CloudFrontなど、多様なAWSサービスを活用したアーキテクチャ設計の経験が豊富です。
+最近では、CI/CD環境の構築やプロダクション環境のパフォーマンス監視にも積極的に取り組んでおり、DevOpsやSREの領域にも知見を広げています。GitHub Actions、CircleCIなどのCI/CDツールの導入や、Terraform、Ansibleなどを用いたIaCの実践も行っています。
+セキュリティにも高い関心を持ち、WAFの導入やOWASP ZAPを用いたセキュリティテスト、SonarCloudを活用したコード品質の向上にも取り組んでいます。
+
+また、プロジェクトマネジメントの経験もあり、要件定義から設計、実装、テスト、運用までの全工程を担当した実績があります。
+顧客との折衝や非エンジニアとのコミュニケーション、技術的な内容を分かりやすく抽象化し説明することが可能です。
+
+IoT開発の経験もあり、Raspberry PiやSoracom Camera APIを使用したプロジェクトにも携わっています。
+これらの技術を活用して、画像処理、リアルタイムモニタリングシステムの構築など、幅広いIoTソリューションを提供できます。
+
+このように、プロジェクトの成功に貢献できるエンジニアとして、様々な課題に柔軟に対応して高品質なソリューションを提供することができます。
+Web開発からIoTまで幅広い領域でのプロジェクト経験を活かし、革新的なシステム開発に貢献できます。
 
 ## スキル
 
@@ -35,7 +47,7 @@ AWS DynamoDB | Aurora MySQL | Aurora Serverless v2 | MySQL | PostgreSQL | Redis 
 
 ### OS
 
-Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packard Nonstop Guardian
+Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packard Nonstop Guardian | Raspberry Pi OS
 
 ### AWS
 
@@ -63,7 +75,7 @@ nginx | unicorn | Apache | Phusion Passenger
 
 ### その他
 
-Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud | Canva
+Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud | Canva | Soracom Cloud Camera Services API
 
 ## バリューを発揮しやすい業務
 
