@@ -9,15 +9,17 @@
 
 ## 概要
 
-バックエンド・インフラを中心に、フロントエンドまでフルスタックに携わる経験豊富なエンジニアです。
+バックエンド・インフラを中心に、フロントエンドまでフルスタックに携わるエンジニアです。
 
 主にWeb系の技術を用いて、勤怠管理アプリやERPパッケージなどの業務アプリケーション開発に従事してきました。
-小規模から大規模サービスまで、新規開発フェーズから改修フェーズにおいて高い価値を提供できる能力を持っています。
+小規模から大規模サービスまで、新規開発フェーズから改修フェーズにおいてバリューを提供できます。
 
-技術スタックとしては、Go、Ruby、Python、JavaScript/TypeScriptなどの言語や、Ruby on Rails、Gin、Next.jsなどのフレームワークを幅広く扱えます。データベースはRDBからNoSQLまで様々な経験があり、特にAWS Aurora(MySQL、PostgreSQL)などに精通しています。
+技術スタックとしては、Go、Ruby、Python、JavaScript/TypeScriptなどの言語や、Ruby on Rails、Gin、Next.jsなどのフレームワークを幅広く扱えます。
+データベースはRDBからNoSQLまで様々な経験があり、特にAWS Aurora(MySQL、PostgreSQL)などに精通しています。
 
 インフラ面では、AWSを中心としたクラウドサービスの設計・構築・運用に強みがあります。EC2、ECS、Lambda、API Gateway、CloudFrontなど、多様なAWSサービスを活用したアーキテクチャ設計の経験が豊富です。
-最近では、CI/CD環境の構築やプロダクション環境のパフォーマンス監視にも積極的に取り組んでおり、DevOpsやSREの領域にも知見を広げています。GitHub Actions、CircleCIなどのCI/CDツールの導入や、Terraform、Ansibleなどを用いたIaCの実践も行っています。
+最近では、CI/CD環境の構築や本番環境のパフォーマンス監視にも積極的に取り組んでおり、DevOpsやSREの領域にも知見を広げています。
+GitHub Actions、CircleCIなどのCI/CDツールの導入や、Terraform、Ansibleなどを用いたIaCの実践も行っています。
 セキュリティにも高い関心を持ち、WAFの導入やOWASP ZAPを用いたセキュリティテスト、SonarCloudを活用したコード品質の向上にも取り組んでいます。
 
 また、プロジェクトマネジメントの経験もあり、要件定義から設計、実装、テスト、運用までの全工程を担当した実績があります。
