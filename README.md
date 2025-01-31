@@ -97,7 +97,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - ネットワーク: VPC, Route53, CloudFront, API Gateway, ELB
 - コンピューティング: EC2, ECS, Fargate, Lambda
 - ストレージ: S3
-- データベース: RDS, DynamoDB, Elasticache
+- データベース: RDS(Aurora MySQL, PostgreSQL), DynamoDB, Elasticache
 - 開発ツール: Amplify, CodePipeline
 - セキュリティ: IAM, Cognito, WAF, ACM
 - 監視・管理: CloudWatch, Systems Manager, Parameter Store
