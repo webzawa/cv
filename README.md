@@ -37,47 +37,131 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 
 ### 言語
 
-Go | Ruby | Python | JavaScript | TypeScript | C | VBA | Google Apps Script | shell script
+## スキル
 
-### フレームワーク等
+実業務で使用した技術を列挙します。
 
-Gin | Ruby on Rails | Next.js | React.js | Vue.js | Nuxt.js | jQuery | Tailwind CSS | Bootstrap | Sass | GraphQL | Apollo Client
+### プログラミング言語
+- Go
+- Ruby
+- Python
+- JavaScript
+- TypeScript
+- C
+- VBA
+- Google Apps Script
+- Shell Script
 
-### RDB/NoSQL
+### フレームワーク・ライブラリ
+#### バックエンド
+- Gin
+- Ruby on Rails
 
-AWS DynamoDB | Aurora MySQL | Aurora Serverless v2 | MySQL | PostgreSQL | Redis | Hewlett-Packard NonStop SQL | Hewlett-Packard Nonstop Enscribe
+#### フロントエンド
+- Next.js
+- React.js
+- Vue.js
+- Nuxt.js
+- jQuery
+
+#### CSS
+- Tailwind CSS
+- Bootstrap
+- Sass
+
+#### API
+- GraphQL
+- Apollo Client
+
+### データベース
+#### RDB
+- Aurora MySQL
+- Aurora Serverless v2
+- MySQL
+- PostgreSQL
+- Hewlett-Packard NonStop SQL
+
+#### NoSQL
+- AWS DynamoDB
+- Redis
+- Hewlett-Packard Nonstop Enscribe
 
 ### OS
+- Mac
+- Windows
+- Linux系
+  - Amazon Linux 2
+  - CentOS7
+  - CentOS8
+  - Rocky Linux
+  - Raspberry Pi OS
+- その他
+  - Hewlett-Packard Nonstop Guardian
 
-Mac | Windows | Amazon Linux 2 | CentOS7 | CentOS8 | Rocky Linux | Hewlett-Packard Nonstop Guardian | Raspberry Pi OS
+### クラウドサービス
+#### AWS
+- ネットワーク: VPC, Route53, CloudFront, API Gateway, ELB
+- コンピューティング: EC2, ECS, Fargate, Lambda
+- ストレージ: S3
+- データベース: RDS, DynamoDB, Elasticache
+- 開発ツール: Amplify, CodePipeline
+- セキュリティ: IAM, Cognito, WAF, ACM
+- 監視・管理: CloudWatch, Systems Manager, Parameter Store
+- メッセージング: SNS, SES, EventBridge
+- 分析: QuickSight
+- コンテナ: ECR, ECS Exec, Copilot
+- メディア: Kinesis Video Streams
+- その他: Step Functions
 
-### AWS
+#### GCP
+- Firebase Auth
+- Firebase Cloud Messaging (FCM)
 
-ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | Copilot | DynamoDB | EC2 | ECR | ECS(EC2,Fargate,FargateSpot) | ECS Exec | Elasticache | ELB | EventBridge | Fargate | IAM | KinesisVideoStreams | Lambda | QuickSight | RDS | Route53 | S3 | SES | SessionManager | SNS(SMS) | SSM | Parameter Store | StepFunctions | SystemManager | VPC | WAF
-
-### GCP
-
-Firebase Auth | Firebase Cloud Messaging(FCM)
-
-### SaaS/PaaS
-
-GitHub | STUDIO
-
-### CI/CD、IaC
-
-GitHub Actions | CircleCI | Ansible | Terraform | Terraformer
-
-### 課金系実装
-
-Stripe API / Shopify API
+### CI/CD・IaC
+- GitHub Actions
+- CircleCI
+- Ansible
+- Terraform
+- Terraformer
 
 ### Webサーバ
+- Nginx
+- Unicorn
+- Apache
+- Phusion Passenger
 
-nginx | unicorn | Apache | Phusion Passenger
+### 開発ツール・ユーティリティ
+- Docker
+- Webpack
+- Git
+- GitHub
+- OpenSSL
+- Draw.io
+- Mermaid
+- Canva
+
+### テスト・監視
+- Selenium
+- Sentry
+- NewRelic
+- SonarCloud
+
+### セキュリティ
+- Wireshark
+- OWASP ZAP
+- Squid（プロキシサーバ構築）
+
+### API連携
+- Stripe API
+- Shopify API
+- Google Business Profile API
+- Instagram API
+- Soracom Cloud Camera Services API
 
 ### その他
-
-Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud | Canva | Soracom Cloud Camera Services API
+- STUDIO（デザインツール）
+- BeautifulSoup（Webスクレイピング）
+- Ngrok（ローカル開発用トンネリングツール）
 
 ## バリューを発揮しやすい業務
 
