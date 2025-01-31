@@ -84,11 +84,19 @@ Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | 
 - Linter や Formatter の導入
 - 単体テストや統合テストの導入
 - local/dev/stg/prod 環境の適切な切り分け
-- メッセージングサービスの導入
 - CI/CD の導入
 - コンテナ化(Docker 化)
 - ログ収集と分析基盤の構築
 - サーバレス構成のインフラ構築
+- パフォーマンス最適化（N+1問題の解消、インデックス設計など）
+- セキュリティ対策（WAF導入、脆弱性診断など）
+- レガシーコードのリファクタリング
+- IoTデバイスとクラウドの連携システム開発
+- 認証・認可システムの設計と実装（OAuth、JWTなど）
+- APIの設計と開発（RESTful API、GraphQL）
+- 監視・アラートシステムの構築
+- データベース設計と最適化
+- スケーラブルなアーキテクチャの設計
 
 ## 資格
 
