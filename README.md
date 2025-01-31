@@ -63,7 +63,7 @@ nginx | unicorn | Apache | Phusion Passenger
 
 ### その他
 
-Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud
+Docker | Webpack | Selenium | BeautifulSoup | OpenSSL | Wireshark | OWASP ZAP | draw.io | mermaid | Squid（プロキシサーバ構築） | Google Business Profile API | Instagram API | ngrok | Sentry | NewRelic | SonerCloud | Canva
 
 ## バリューを発揮しやすい業務
 
