@@ -41,7 +41,7 @@ ACM | Amplify | APIGataway | CloudFront | CloudWatch | CodePipeline | Cognito | 
 
 ### GCP
 
-Firebase Auth
+Firebase Auth | Firebase Cloud Messaging(FCM)
 
 ### SaaS/PaaS
 
