@@ -89,6 +89,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
   - CentOS8
   - Rocky Linux
   - Raspberry Pi OS
+  - Balena OS
 - その他
   - Hewlett-Packard Nonstop Guardian
 
@@ -144,6 +145,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - Wireshark
 - OWASP ZAP
 - Squid（プロキシサーバ構築）
+- WireGuard（VPN）
 
 ### API連携
 - Stripe API
@@ -156,6 +158,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - STUDIO（デザインツール）
 - BeautifulSoup（Webスクレイピング）
 - Ngrok（ローカル開発用トンネリングツール）
+- Balena Cloud（RaspberryPi遠隔管理）
 
 ## バリューを発揮しやすい業務
 
