@@ -4,7 +4,7 @@
 
 | key            | value                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------- |
-| Twitter        | [@webzawa2](https://twitter.com/webzawa2)                                                    |
+| X        | [@webzawa2](https://x.com/webzawa2)                                                    |
 | 個人開発アプリ | [MAXICELI シフト](https://www.maxiceli-shift.com/) (コンビニ事業者向け勤怠管理Webアプリ 2024/07/10現在非公開) |
 
 ## 概要
