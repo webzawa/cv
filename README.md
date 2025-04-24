@@ -105,7 +105,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - 分析: QuickSight
 - コンテナ: ECR, ECS Exec, Copilot
 - メディア: Kinesis Video Streams
-- その他: Step Functions
+- その他: Step Functions, SSM Run Command
 
 #### GCP
 - Firebase Auth
@@ -224,6 +224,8 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 ## プロジェクトの種類
 
 - Web サービス
+- IoT開発（Raspberry Pi, Nvidia Jetson, Soracom API）
+- データサイエンス
 
 ## 経験した職種・役割
 
@@ -246,6 +248,12 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - ChatGPT4o API & Rails Turbo Streamを利用した非同期更新AIチャットページの作成
 - GolangでGraphQL APIを構築 & サーバレスアーキテクチャのインフラ構築 & Next.js SSRの構築及びPWAスマホアプリの構築
 - Firebase Cloud Messaging（FCM）を使用したAndroid, iOSへの通知送信
+- 既存AWSリソースの全IaC化（Terraform）
+- クラウドカメラSoracomで、Soracom APIで録画を取得して音声を抽出し、警報音検知モデルで特定の警報音を検知
+- EC2のGPUインスタンスに属性判定（年齢性別判定）モデルを配置し、ECS Fargate上のFlaskアプリから AWS Systems Manager (SSM) Run Command でEC2のpythonスクリプトを遠隔実行
+- 複数 Raspberry Pi の遠隔管理（Balena Cloud、Ansible、WireGuard）
+- AWS コスト削減の案件で NATゲートウェイをNATインスタンスに置換
+
 
 <a id="13"></a>
 
