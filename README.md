@@ -256,6 +256,8 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - EC2のGPUインスタンスに属性判定（年齢性別判定）モデルを配置し、ECS Fargate上のFlaskアプリから AWS Systems Manager (SSM) Run Command でEC2のpythonスクリプトを遠隔実行
 - 複数 Raspberry Pi の遠隔管理（Balena Cloud、Ansible、WireGuard）
 - AWS コスト削減の案件で NATゲートウェイをNATインスタンスに置換
+- AWS RDSの監査ログ出力のためパラメータグループを設定
+- Github リポジトリのOrganization移管と、それに伴うデプロイパイプラインの修正（Amplify、CodePipeline、CodeConnection、IAM Policy）
 
 
 <a id="13"></a>
