@@ -98,7 +98,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - ネットワーク: VPC, Route53, CloudFront, API Gateway, ELB
 - コンピューティング: EC2, ECS, Fargate, Lambda
 - ストレージ: S3
-- データベース: RDS(Aurora MySQL, PostgreSQL), DynamoDB, Elasticache
+- データベース: RDS(Aurora MySQL, PostgreSQL), DynamoDB, Elasticache, DMS
 - 開発ツール: Amplify, CodePipeline
 - セキュリティ: IAM, Cognito, WAF, ACM
 - 監視・管理: CloudWatch, Systems Manager, Parameter Store
@@ -258,6 +258,7 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - AWS コスト削減の案件で NATゲートウェイをNATインスタンスに置換
 - AWS RDSの監査ログ出力のためパラメータグループを設定
 - Github リポジトリのOrganization移管と、それに伴うデプロイパイプラインの修正（Amplify、CodePipeline、CodeConnection、IAM Policy）
+- AWS DMSを利用したDBの複製
 
 
 <a id="13"></a>
