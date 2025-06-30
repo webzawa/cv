@@ -393,6 +393,7 @@ Next.js 13.1.6
 - Rails 6
 - Github Actions
 - CircleCI
+- NewReric
 - AWS
   - Codepipeline
   - ECS
