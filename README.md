@@ -288,6 +288,9 @@ IoT開発の経験もあり、Raspberry PiやSoracom Camera APIを使用した�
 
 - Shopifyを使用したRailsバックエンドの開発
 
+炎上状態にあった Shopify 連携プロジェクトへ緊急参加し、Rails 7（Ruby 3.1）と Next.js 13 を用いたバックエンド／API を設計・実装して決済や在庫同期などの主要機能を安定化させ、
+コード最適化とレビュー体制の整備によりパフォーマンスと品質を向上させた結果、当初遅延していたリリースを予定どおりの納期に乗せました。
+
 ## 使用技術
 
 ### 【使用言語・FW・MW・ツール等】
@@ -330,6 +333,9 @@ Next.js 13.1.6
 
 - 画像生成 AI の Web サービスのインフラ開発
 
+画像生成 AI Webサービスのインフラ開発を担当し、Rails 7でバックエンド、Next.js 13でフロントエンドを構築したうえで、Stable DiffusionをAmazon SageMaker上にデプロイした生成APIを組み込み、0 => 1 でシステムをから設計・実装・運用しました。
+プロジェクトマネージャとして全工程を統括し、GitHub ActionsとRSpecによるCI/CDパイプラインを整備。加えて、ECS FargateをSSM Session Manager経由で安全に操作できる基盤を構築し、個人情報はCognitoに集約して情報セキュリティを強化しました。
+
 ## 使用技術
 
 ### 【使用言語・FW・MW・ツール等】
@@ -339,8 +345,10 @@ Next.js 13.1.6
 - MySQL
 - Docker
 - docker-compose
+- Github Actions
 - TailwindCSS
 - nginx
+- Stable Diffusion
 - AWS
   - VPC
   - Route53
@@ -357,6 +365,7 @@ Next.js 13.1.6
   - Amplify
   - Cognito
   - CodePipeline
+  - SageMaker
 
 <a id="11"></a>
 
@@ -387,6 +396,8 @@ Next.js 13.1.6
 ## 業務内容
 
 - 大規模建設ベンダー向けシステムの開発
+
+DDD（ドメイン駆動設計）を採用した Rails 6 マイクロサービスの新規開発と機能追加を主導し、外部サービス連携用の REST API を設計・実装して OAuth 2 認証基盤を構築したほか、ECS Fargate と ALB によるブルーグリーン／カナリアリリース基盤を整備してデプロイ失敗率を抑制し、CircleCI と AWS CodePipeline を用いた CI/CD を構築するとともに、New Relic と AWS CloudWatch によるメトリクスおよびログ監視体制を確立しました。
 
 ## 使用技術
 
@@ -428,12 +439,14 @@ Next.js 13.1.6
 
 - 顧客エンゲージメント向上用 SNS チャットボットの機能開発
 
+RailsとChatGPT APIを使用したチャットボットの開発を行いました。
+チャットボットの開発ではRails Turbo Streamsを使用し、WebSocket 不要のリアルタイム通信を実装しました。
+
 ## 使用技術
 
 ### 【使用言語・FW・MW・ツール等】
 
 - Rails 6
-- Next.js 13
 - Github Actions
 
 <a id="9"></a>
