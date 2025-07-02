@@ -160,6 +160,9 @@ Web開発からIoTまで幅広い領域でのプロジェクト経験を活か�
 - Ngrok（ローカル開発用トンネリングツール）
 - Balena Cloud（RaspberryPi遠隔管理）
 
+### キャッチアップ中
+- k8s
+
 ## バリューを発揮しやすい業務
 
 - Linter や Formatter の導入
